@@ -1,0 +1,9 @@
+to pull from git 
+    git pull origin main
+
+to add new changes(push)
+    git add .
+    git commit -m "your message"
+    git push origin main
+
+    --- here main can be your branch name
