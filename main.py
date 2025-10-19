@@ -1,3 +1,6 @@
+#install the library before running
+# pip install exa_py
+
 from exa_py import Exa
 
 exa = Exa(api_key="b24dc454-6bd7-4bd7-9871-daff3f5f90fc")
